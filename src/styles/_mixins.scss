@@ -1,0 +1,8 @@
+// _mixins.scss
+@mixin dynamic-variables {
+  :root {
+    --primary-color: #{$primary-color};
+    --secondary-color: #{$secondary-color};
+    // Add more dynamic variables here
+  }
+}
