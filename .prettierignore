@@ -1,0 +1,16 @@
+# Ignore artifacts:
+build
+coverage
+.angular
+dist
+src/scss
+src/assets
+
+# Ignore all HTML files:
+**/*.js
+# **/*.ts
+**/*.spec.ts
+**/*.json
+**/*.md
+**/*.css
+**/*.scss
